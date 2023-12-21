@@ -1,6 +1,6 @@
 ### Hi, folks! 👋
-I'm currently learning Data Science🔬  
-I'm also interested in learning Web Development📝  
+I'm currently learning **Data Science**🔬  
+I'm also interested in learning **Web Development**📝  
 Reach me at 📬riyannaffanusafara@gmail.com  
 
 
