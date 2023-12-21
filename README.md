@@ -1,7 +1,8 @@
 ### Hi, folks! 👋
-I'm currently learning Data Science🔬\n
-I'm also interested in learning Web Development📝\n
-Reach me at 📬riyannaffanusafara@gmail.com
+I'm currently learning Data Science🔬  
+I'm also interested in learning Web Development📝  
+Reach me at 📬riyannaffanusafara@gmail.com  
+
 
 <!--
 **RiyanNaffa/RiyanNaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
