@@ -2,6 +2,7 @@
 - I'm currently learning **Data Science/Machine Learning**🔬  
 - I'm also interested in learning **Web Development** and **Software Development** 📝 
 - You can contact me at 📬riyannaffanusafara@gmail.com
+- Visit my professional on 💼linkedin.com/in/riyan-naffa-nusafara-77689228b
 - Personal website: UPCOMING
 
 
