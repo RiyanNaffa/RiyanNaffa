@@ -1,4 +1,4 @@
-### Hi, folks! 👋
+## Hi, folks! 👋
 - I'm currently learning **Data Science/Machine Learning**🌱  
 - I'm also interested in learning **Web Development**📝 
 - You can contact me via e-mail 📬riyannaffanusafara@gmail.com
@@ -6,8 +6,13 @@
 - Personal website: UPCOMING
 - CodeForces username: IanRyan
 
->> ## Hobbies:
->> - Do math
+### Hobbies:
+- Solving problems in CodeForces/LeetCode  
+- Listening to music  
+- Comic reading  
+- Cooking  
+- Playing guitar  
+- _Doing math_  
 
 <!--
 **RiyanNaffa/RiyanNaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
