@@ -25,7 +25,7 @@
 - _Doing math_
 
 <div id="nijika-gif" align="center">
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif" alt="Nijika vs. Ryo" width=200\>
+  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif" alt="Nijika vs. Ryo" width=50\>
 </div>
 
 <!--
