@@ -6,6 +6,10 @@
 - Personal website: UPCOMING
 - CodeForces username: IanRyan
 
+<div id="nijika-gif" align="center">
+  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif" alt="Nijika vs. Ryo" width="300"\>
+</div>
+
 ### Languages/Tools I learned/master:  
 - C++  
 - Python  
@@ -14,7 +18,11 @@
 - JavaScript  
 - Jupyter Notebook  
 - LaTex  
-- Octave  
+- Octave
+
+<div id="user-stats" align="center">
+  <img src="https://myreadme.vercel.app/api/embed/RiyanNaffa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div>
 
 ### Hobbies:  
 - Solving problems in CodeForces/LeetCode  
@@ -23,10 +31,6 @@
 - Cooking  
 - Playing guitar  
 - _Doing math_
-
-<div id="nijika-gif" align="center">
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif" alt="Nijika vs. Ryo" width="100"\>
-</div>
 
 <!--
 **RiyanNaffa/RiyanNaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
