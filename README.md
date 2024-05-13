@@ -8,9 +8,11 @@
 
 ### Languages/Tools I learned/master:  
 - C++  
+- Python  
 - Rust  
 - HTML/CSS  
 - JavaScript  
+- Jupyter Notebook  
 - LaTex  
 - Octave  
 
