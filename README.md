@@ -6,7 +6,15 @@
 - Personal website: UPCOMING
 - CodeForces username: IanRyan
 
-### Hobbies:
+### Languages/Tools I learned/master:  
+- C++  
+- Rust  
+- HTML/CSS  
+- JavaScript  
+- LaTex  
+- Octave  
+
+### Hobbies:  
 - Solving problems in CodeForces/LeetCode  
 - Listening to music  
 - Comic reading  
