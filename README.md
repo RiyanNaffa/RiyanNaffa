@@ -20,6 +20,9 @@
 - LaTex  
 - Octave
 
+<div id="user-top-langs" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiyanNaffa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
 <div id="user-stats" align="center">
   <img src="https://myreadme.vercel.app/api/embed/RiyanNaffa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
