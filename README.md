@@ -1,10 +1,13 @@
 ### Hi, folks! 👋
-- I'm currently learning **Data Science/Machine Learning**🔬  
-- I'm also interested in learning **Web Development** and **Software Development** 📝 
+- I'm currently learning **Data Science/Machine Learning**🌱  
+- I'm also interested in learning **Web Development**📝 
 - You can contact me via e-mail 📬riyannaffanusafara@gmail.com
 - Visit my professional on 💼linkedin.com/in/riyan-naffa-nusafara-77689228b
 - Personal website: UPCOMING
+- CodeForces username: IanRyan
 
+>> ## Hobbies:
+>> - Do math
 
 <!--
 **RiyanNaffa/RiyanNaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
