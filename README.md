@@ -24,7 +24,9 @@
 - Playing guitar  
 - _Doing math_
 
-![Nijika vs Ryo](https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif)
+<div id="nijika-gif" align="center">
+  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif" alt="Nijika vs. Ryo" width=200\>
+</div>
 
 <!--
 **RiyanNaffa/RiyanNaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
