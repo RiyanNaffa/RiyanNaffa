@@ -22,7 +22,9 @@
 - Comic reading  
 - Cooking  
 - Playing guitar  
-- _Doing math_  
+- _Doing math_
+
+![Nijika vs Ryo](https://tenor.com/bZSFQ.gif)
 
 <!--
 **RiyanNaffa/RiyanNaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
