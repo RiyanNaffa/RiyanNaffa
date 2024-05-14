@@ -1,10 +1,15 @@
-## Hi, folks! 👋
+# Hi, folks! 👋
+
+<div id="linkedin-badge" align="center">
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyan-naffa-nusafara/)
+  [![CodeForces Badge](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/IanRyan)
+    
+</div>
+
 - I'm currently learning **Data Science/Machine Learning**🌱  
 - I'm also interested in learning **Web Development**📝 
-- You can contact me via e-mail 📬riyannaffanusafara@gmail.com
-- Visit my professional on 💼linkedin.com/in/riyan-naffa-nusafara-77689228b
 - Personal website: UPCOMING
-- CodeForces username: IanRyan
 
 <div id="nijika-gif" align="center">
   <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif" alt="Nijika vs. Ryo" width="300"\>
