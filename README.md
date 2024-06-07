@@ -15,25 +15,10 @@
   <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif" alt="Nijika vs. Ryo" width="300"\>
 </div>
 
-### Languages/Tools I learned/master:  
-<div id="tools" align="center">
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/img/ISO_C%2B%2B.png" alt="C++" style="margin: 20px" width="100"\>
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/img/Python-logo.png" alt="Python" style="margin: 20px" width="100"\>
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/img/rustacean-flat-happy.png" alt="Rust" style="margin: 20px" width="100"\>
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/img/HTML5_logo.png" alt="HTML" style="margin: 20px" width="100"\>
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/img/CSS3_logo.png" alt="CSS" style="margin: 20px" width="100"\>
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/img/JavaScript-logo.png" alt="JavaScript" style="margin: 20px" width="100"\>
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/img/Jupyter_logo.png" alt="Jupyter" style="margin: 20px" width="100"\>
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/img/TeX_logo.png" alt="LaTeX" style="margin: 20px" width="100"\>
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/img/Gnu-octave-logo.png" alt="Octave" style="margin: 20px" width="100"\>
-  <br> <br> <br>
-</div>
 
 <div id="user-top-langs" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiyanNaffa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</div>
-<div id="user-stats" align="center">
-  <img src="https://myreadme.vercel.app/api/embed/RiyanNaffa?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RiyanNaffa&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanNaffa&theme=tokyonight"/>
 </div>
 
 ### Hobbies:  
