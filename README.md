@@ -17,7 +17,7 @@
 
 
 <div id="user-top-langs" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanNaffa&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanNaffa&theme=tokyonight&hide=jupyter%20notebook"/>
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiyanNaffa&theme=tokyonight"/>  
