@@ -2,7 +2,7 @@
 I'm currently learning **Web/Mobile App Development** and **Microcontrollers**ðŸŒ±
 
 <div id="nijika-gif" align="center">
-  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif" alt="Nijika vs. Ryo" width="300"\>
+  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/bocchi-the-rock-ijichi-nijika.gif" alt="Nijika vs. Ryo" width="400"\>
 </div>
 
 ## Socials
@@ -60,3 +60,5 @@ I'm currently learning **Web/Mobile App Development** and **Microcontrollers**ðŸ
 - Cooking and eating (mainly eating)
 - Playing guitar  
 - _Doing math_
+
+<div align="center"><img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/yui-eat-pan.gif" alt="Nijika vs. Ryo" width="150"\></div>
