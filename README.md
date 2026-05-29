@@ -121,4 +121,6 @@ I'm currently learning **Web/Mobile App Development** and **Microcontrollers** ð
 
 <div align="center">
   <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/yui-eat-pan.gif" alt="Yui eating bread" width="150"/>
+  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/endfield-relay-tower.gif" alt="Endmin with relay tower" width="150"/>
+  <img src="https://github.com/RiyanNaffa/RiyanNaffa/blob/main/arknights-mont3r.gif" alt="mon3tr" width="150"/>
 </div>
